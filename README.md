@@ -4,3 +4,5 @@
 A basic program that exploits 3 vulnerabilities to read files and delete them.
 
 TavernAI: https://github.com/TavernAI/TavernAI
+
+### (another note: the delete feature has not been tested, it may cause irreversable damage.)
