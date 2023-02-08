@@ -1,5 +1,5 @@
 
-# Note: This is an example of how bad TavernAI's security it. Doing this on devices you do not own is ILLEGAL.
+# Note: This is an example of how bad TavernAI's security it. Doing this on devices you do not own is ILLEGAL. I am not responsible for any damage this may cause. You have been warned.
 # TavernAIPwn
 A basic program that exploits 3 vulnerabilities to read files and delete them.
 
