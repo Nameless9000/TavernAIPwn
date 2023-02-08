@@ -44,7 +44,7 @@ characters = json.loads(characterJson.text)
 
 for index, char in characters.items():
     payload={
-        'ch_name': 'Femboy '+char['name']+' #'+index,
+        'ch_name': 'Femboy '+char['name'],
         'description': 'I LOVE dick!',
         'personality': 'gay... very gay...',
         'first_mes': 'wanna fuck?',
